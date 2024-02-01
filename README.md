@@ -1,1 +1,3 @@
-# Shubhangi_Mapari_Capstone_Project_Cohort_Vancouver_Introduction_to_Computer_Programming.ipynb
+# Capstone-Project---Introduction-to-Computer-Programming
+
+This project contains normal questions on introduction to computer programming.
